@@ -65,11 +65,11 @@ def quit():
 score = Score()
 
 root = Tk()
-root.title('Assignment 3 // Exam Number:117303363')
+root.title('GAME')
 
 label = Label(root,text="Score: %s" % score.getScore)
 label.grid(row=1)
-labelq = Label(root, text="Assignment 3\tColin Kelleher\t117303363")
+labelq = Label(root, text="GAME")
 labelq.grid(row=5)
 
 
