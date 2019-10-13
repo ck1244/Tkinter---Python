@@ -1,4 +1,4 @@
-##MOVING SQUARE GAME
+## MOVING SQUARE GAME
 
 
 The program should play as follows:
